@@ -1,0 +1,56 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Poppins:wght@500;600&display=swap');
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v6.1.2/css/all.css');
+
+/* components */
+@import url('components/cards.css');
+@import url('components/containers.css');
+@import url('components/banners.css');
+@import url('components/buttons.css');
+@import url('components/dividers.css');
+@import url('components/footers.css');
+
+
+
+/* colors #ECD06F (yellow) #122C34 (dark blue) #960018 dark red #B31B1B light red
+/* Utilities */
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+
+
+h1, h2, h3, h4 {
+  font-family: Poppins;
+  font-weight: 500;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+}
+
+h2 {
+  color: #ED3300;
+  font-size: 40px;
+  text-align: center;
+  margin: 30px;
+}
+
+h4 {
+  margin: 15px 0;
+  color: #ED3300;
+  font-family: "Lato", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 18px;
+  color: #ED3300;
+}
+/* Custom design below! */

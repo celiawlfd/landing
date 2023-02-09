@@ -1,0 +1,14 @@
+.divider-yellow {
+  background-color: #ECD06F;
+}
+
+.divider-yellow > p {
+  color: transparent;
+  margin: 0;
+  padding: 20px;
+}
+
+.lines-red {
+  border-bottom: 2px solid #FF3800;
+  border-top: 2px solid #FF3800;
+}

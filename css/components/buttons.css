@@ -1,0 +1,10 @@
+.btn-red {
+  padding: 14px 20px;
+  background-color: #FF3800;
+  color: white;
+  transition: 0.3s ease;
+}
+
+.btn-red:hover {
+  background-color: #ED3300;
+}

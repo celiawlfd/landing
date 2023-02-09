@@ -1,0 +1,19 @@
+.banner {
+  height: 860px;
+  background-size: cover;
+}
+
+.banner > .container {
+  padding: 300px 0 300px 50px;
+}
+
+.banner > .container > h1 {
+  text-shadow: 0 10px 30px rgba(0,0,0,.05);
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.banner > .container > p {
+  color: #ED3300;
+  margin-bottom: 70px;
+}
